@@ -1,3 +1,5 @@
-if ("Beaver2" === "Beaver3") {
-    console.log("It will never happen")
+function isBeaver (entity) {
+    if (entity === "Beaver") {
+        console.log("the beaver")
+    }
 }
