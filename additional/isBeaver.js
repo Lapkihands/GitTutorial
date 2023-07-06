@@ -1,3 +1,3 @@
-if ("Beaver2" === "Beaver2") {
-    console.log("Beaver")
+if ("Beaver2" === "Beaver3") {
+    console.log("It will never happen")
 }
