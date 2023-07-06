@@ -1,2 +1,2 @@
 console.log("Git tutorial, index.js")
-consoke.log("Version 4")
+consoke.log("Version 5")
