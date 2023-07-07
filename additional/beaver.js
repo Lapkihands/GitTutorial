@@ -1,8 +1,6 @@
 function isBeaver (entity) {
-    if (entity === "Beaver") {
+    if (entity.toLowerCase() === "beaver") 
         console.log("the beaver")
-    }
-    else {
+    else 
         console.log("is not a beaver")
-    }
 }
